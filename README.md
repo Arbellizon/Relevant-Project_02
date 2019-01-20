@@ -1,4 +1,4 @@
-# Relevant-Project_02
+# Relevant-Projects_02
 
 
 To  Showcase Standalone Projects, both finished and in progress.
